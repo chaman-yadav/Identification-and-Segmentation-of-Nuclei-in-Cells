@@ -1,0 +1,2 @@
+# Identification-and-Segmentation-of-Nuclei-in-Cells
+This includes a complete pipeline for nuclei segmentation in microscopy images using a U-Net decoder with an EfficientNet-B3 encoder (pretrained on ImageNet). We include dataset description, RLE ground-truth handling, preprocessing and augmentation, model architecture, loss functions and equations, training and inference , baseline descriptions.
